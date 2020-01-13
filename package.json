@@ -4,13 +4,13 @@
   "description": "Finds the version of ChromeDriver that is compatible with the locally-installed version of Chrome.",
   "main": "index.js",
   "dependencies": {
-    "chrome-launcher": "0.10.5",
-    "cross-spawn": "6.0.5",
+    "chrome-launcher": "0.12.0",
+    "cross-spawn": "7.0.1",
     "request": "2.88.0",
-    "xml2js": "0.4.19"
+    "xml2js": "0.4.23"
   },
   "devDependencies": {
-    "eslint": "5.7.0"
+    "eslint": "6.8.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
